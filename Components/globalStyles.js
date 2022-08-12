@@ -2,7 +2,7 @@
 
 import { createGlobalStyle } from "styled-components";
 
-const GlobalStyle = createGlobalStyle`
+const globalStyle = createGlobalStyle`
 
 html,
 body {
@@ -81,4 +81,4 @@ img{
 }
 `;
 
-export default GlobalStyle;
+export default globalStyle;
